@@ -6,7 +6,11 @@
 🚧 Se esta trabajando en evitar que se lleguen a colocar tipos que no concuerdan con un nombre 🚧
 - Posteriormente se selecciona el boton añadir, este boton va a ir mostrando en una lista los nombres ingresados 
 <img src="lista.png"> 
-- Posterior a seleccionar el boton "Sortear amigo" vamos a mostrar el amigo secreto" 
+- Posterior a seleccionar el boton "Sortear amigo" vamos a mostrar el amigo secreto seleccionado
+<img src="lista_seleccion.png"> 
+<br>
+<h2 align = "center">Descarga</h2>
+<p>La descarga de este programa se puede hacer por medio de github. Los archivos que no son "necesarios" son las imagenes. Inicio,Lista y Lista_seleccion</p>
 
 
 
