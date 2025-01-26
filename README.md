@@ -5,6 +5,8 @@
 - En la caja de texto con el texto "Escribe nombre" se va a ingresar el nombre de la persona. <br> 
 🚧 Se esta trabajando en evitar que se lleguen a colocar tipos que no concuerdan con un nombre 🚧
 - Posteriormente se selecciona el boton añadir, este boton va a ir mostrando en una lista los nombres ingresados 
+<img src="lista.png"> 
+- Posterior a seleccionar el boton "Sortear amigo" vamos a mostrar el amigo secreto" 
 
 
 
